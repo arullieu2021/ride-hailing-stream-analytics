@@ -1,0 +1,1602 @@
+[
+    {
+        "user_id": "51c85101-230a-4e28-99f4-cfef1119ac38",
+        "pickup_location": "New Laura",
+        "destination": "Port Sandra",
+        "timestamp": "2025-03-16T20:31:37.437621",
+        "status": "completed",
+        "price": 13.59
+    },
+    {
+        "user_id": "8ea2927f-84f6-4101-af33-623f4e1d275b",
+        "pickup_location": "Lake Olivia",
+        "destination": "South Michelle",
+        "timestamp": "2025-03-16T20:31:37.438145",
+        "status": "ongoing",
+        "price": 46.89
+    },
+    {
+        "user_id": "28699f62-3a8e-4742-90d5-2dcec9334433",
+        "pickup_location": "Lake Michelletown",
+        "destination": "South James",
+        "timestamp": "2025-03-16T20:31:37.438497",
+        "status": "completed",
+        "price": 48.72
+    },
+    {
+        "user_id": "cf4564a9-11d6-4b45-bf2e-e41ee673baca",
+        "pickup_location": "Lake Kathleen",
+        "destination": "Lake Eric",
+        "timestamp": "2025-03-16T20:31:37.438837",
+        "status": "requested",
+        "price": 42.38
+    },
+    {
+        "user_id": "61cb200a-bda1-420e-85c3-56acb84be119",
+        "pickup_location": "North Johnmouth",
+        "destination": "Johnstonland",
+        "timestamp": "2025-03-16T20:31:37.439133",
+        "status": "requested",
+        "price": 36.8
+    },
+    {
+        "user_id": "1707e9dc-9241-4b1b-856b-1f9942268eb9",
+        "pickup_location": "Traciside",
+        "destination": "Lake Steven",
+        "timestamp": "2025-03-16T20:31:37.439590",
+        "status": "completed",
+        "price": 31.32
+    },
+    {
+        "user_id": "603dfd75-1cc6-4d79-af68-1651a5b6bc4e",
+        "pickup_location": "Debbieshire",
+        "destination": "Joannemouth",
+        "timestamp": "2025-03-16T20:31:37.439890",
+        "status": "accepted",
+        "price": 9.79
+    },
+    {
+        "user_id": "7145cbfc-04e4-46fc-84db-c062d5aa7911",
+        "pickup_location": "Kingchester",
+        "destination": "Boydstad",
+        "timestamp": "2025-03-16T20:31:37.440185",
+        "status": "completed",
+        "price": 27.55
+    },
+    {
+        "user_id": "43f971f2-6e58-4f2e-be53-5fe1c92f704d",
+        "pickup_location": "Christinatown",
+        "destination": "Port Gina",
+        "timestamp": "2025-03-16T20:31:37.440613",
+        "status": "requested",
+        "price": 26.72
+    },
+    {
+        "user_id": "5d537e89-f75e-4965-b6e1-78c2f2091193",
+        "pickup_location": "Scottborough",
+        "destination": "East Shannon",
+        "timestamp": "2025-03-16T20:31:37.442510",
+        "status": "accepted",
+        "price": 23.82
+    },
+    {
+        "user_id": "6be2ff5b-b04e-4d01-a378-b376f280843f",
+        "pickup_location": "North Dawnstad",
+        "destination": "Warrenhaven",
+        "timestamp": "2025-03-16T20:31:37.442973",
+        "status": "completed",
+        "price": 35.39
+    },
+    {
+        "user_id": "a63beb17-e52a-4dae-8835-e6fcde6ef4f3",
+        "pickup_location": "Lake Kurtbury",
+        "destination": "Lake Roberthaven",
+        "timestamp": "2025-03-16T20:31:37.443356",
+        "status": "cancelled",
+        "price": 23.9
+    },
+    {
+        "user_id": "1559d8b8-f96e-44a8-af80-d189b57d07a5",
+        "pickup_location": "North Michael",
+        "destination": "Lambertberg",
+        "timestamp": "2025-03-16T20:31:37.443658",
+        "status": "cancelled",
+        "price": 25.11
+    },
+    {
+        "user_id": "819b2f6d-ccf0-4b61-8a57-5eb19f97760f",
+        "pickup_location": "North Nicholasbury",
+        "destination": "Banksview",
+        "timestamp": "2025-03-16T20:31:37.443964",
+        "status": "accepted",
+        "price": 37.14
+    },
+    {
+        "user_id": "797cd1a2-492b-425a-8950-ebc57ef1371d",
+        "pickup_location": "Mitchellhaven",
+        "destination": "Port Deborah",
+        "timestamp": "2025-03-16T20:31:37.444313",
+        "status": "cancelled",
+        "price": 38.18
+    },
+    {
+        "user_id": "ed121993-3993-4620-bfc6-b3c339fc41d9",
+        "pickup_location": "Zunigamouth",
+        "destination": "East Allisonburgh",
+        "timestamp": "2025-03-16T20:31:37.444624",
+        "status": "requested",
+        "price": 31.02
+    },
+    {
+        "user_id": "f199c361-37b3-4d70-9f09-5eb1899090f1",
+        "pickup_location": "Nancyburgh",
+        "destination": "East Derekville",
+        "timestamp": "2025-03-16T20:31:37.445000",
+        "status": "cancelled",
+        "price": 40.09
+    },
+    {
+        "user_id": "ab687e2a-920e-4996-9b64-7ead70641a08",
+        "pickup_location": "Vangshire",
+        "destination": "Allenchester",
+        "timestamp": "2025-03-16T20:31:37.445295",
+        "status": "accepted",
+        "price": 19.49
+    },
+    {
+        "user_id": "3559361e-33d0-4d06-91a1-39f8b86a10f5",
+        "pickup_location": "Danielletown",
+        "destination": "East Austinstad",
+        "timestamp": "2025-03-16T20:31:37.445707",
+        "status": "completed",
+        "price": 40.88
+    },
+    {
+        "user_id": "569c4776-1efc-49b3-9db5-c6dc7bd19132",
+        "pickup_location": "Blevinsborough",
+        "destination": "West William",
+        "timestamp": "2025-03-16T20:31:37.445982",
+        "status": "cancelled",
+        "price": 34.87
+    },
+    {
+        "user_id": "fa3efe95-bef2-44f5-8858-ddafe21cbd83",
+        "pickup_location": "Chapmanfurt",
+        "destination": "Ericfort",
+        "timestamp": "2025-03-16T20:31:37.446340",
+        "status": "ongoing",
+        "price": 28.4
+    },
+    {
+        "user_id": "8d3dca9e-7dbd-444d-b6bc-376a260e8621",
+        "pickup_location": "Justinstad",
+        "destination": "North Bradley",
+        "timestamp": "2025-03-16T20:31:37.446735",
+        "status": "ongoing",
+        "price": 38.76
+    },
+    {
+        "user_id": "4b79ec09-92ec-45ea-879a-83f73da9a915",
+        "pickup_location": "Cooperborough",
+        "destination": "North Eric",
+        "timestamp": "2025-03-16T20:31:37.447009",
+        "status": "accepted",
+        "price": 10.01
+    },
+    {
+        "user_id": "a4b5483d-cd9b-4be5-866b-7dfa20bc3c32",
+        "pickup_location": "Scottshire",
+        "destination": "West Victorberg",
+        "timestamp": "2025-03-16T20:31:37.447344",
+        "status": "ongoing",
+        "price": 26.71
+    },
+    {
+        "user_id": "b9040b3a-b830-4184-a9b8-47e80f9cb445",
+        "pickup_location": "Bowenchester",
+        "destination": "Cartermouth",
+        "timestamp": "2025-03-16T20:31:37.447719",
+        "status": "accepted",
+        "price": 47.37
+    },
+    {
+        "user_id": "a122bb4a-b063-4efc-8557-8e4e31fab534",
+        "pickup_location": "East Greg",
+        "destination": "New Elizabethshire",
+        "timestamp": "2025-03-16T20:31:37.448086",
+        "status": "requested",
+        "price": 16.09
+    },
+    {
+        "user_id": "24ee3c2f-e611-4386-b2dd-e453abec1b29",
+        "pickup_location": "East Jacquelinebury",
+        "destination": "Kellymouth",
+        "timestamp": "2025-03-16T20:31:37.448374",
+        "status": "accepted",
+        "price": 6.87
+    },
+    {
+        "user_id": "2cb91166-879a-4926-9ea9-577062b59e2f",
+        "pickup_location": "East Laura",
+        "destination": "Port Williammouth",
+        "timestamp": "2025-03-16T20:31:37.448642",
+        "status": "cancelled",
+        "price": 46.93
+    },
+    {
+        "user_id": "426d988a-d58e-4ce9-ba60-d5183db8f007",
+        "pickup_location": "West Waynechester",
+        "destination": "West Stacychester",
+        "timestamp": "2025-03-16T20:31:37.448941",
+        "status": "accepted",
+        "price": 18.4
+    },
+    {
+        "user_id": "7f2dc846-99d9-4897-aa0d-1ba807b98b08",
+        "pickup_location": "Marieborough",
+        "destination": "Philipchester",
+        "timestamp": "2025-03-16T20:31:37.449246",
+        "status": "completed",
+        "price": 49.4
+    },
+    {
+        "user_id": "017e9a7c-5386-430d-9d7d-db7de8031b06",
+        "pickup_location": "Whitefort",
+        "destination": "Austinshire",
+        "timestamp": "2025-03-16T20:31:37.449502",
+        "status": "cancelled",
+        "price": 48.28
+    },
+    {
+        "user_id": "99726da0-6913-4d6c-b9e3-950d07ffce56",
+        "pickup_location": "Loganmouth",
+        "destination": "Huntfort",
+        "timestamp": "2025-03-16T20:31:37.449814",
+        "status": "completed",
+        "price": 28.75
+    },
+    {
+        "user_id": "68f5bf2e-6c0b-41f0-950d-6d8f70f98d51",
+        "pickup_location": "Garciatown",
+        "destination": "Churchhaven",
+        "timestamp": "2025-03-16T20:31:37.450214",
+        "status": "accepted",
+        "price": 26.6
+    },
+    {
+        "user_id": "8405af4b-a1f9-4275-b2f9-ae88bdaea512",
+        "pickup_location": "Michaelchester",
+        "destination": "Hollyville",
+        "timestamp": "2025-03-16T20:31:37.450604",
+        "status": "accepted",
+        "price": 24.03
+    },
+    {
+        "user_id": "ba4a0174-b780-40e1-839c-d45e5fe7cda3",
+        "pickup_location": "Lake Cassandramouth",
+        "destination": "Johnville",
+        "timestamp": "2025-03-16T20:31:37.450907",
+        "status": "completed",
+        "price": 35.27
+    },
+    {
+        "user_id": "f2672e58-de99-4b8a-a725-d86eb07ab860",
+        "pickup_location": "Garciaburgh",
+        "destination": "Greenside",
+        "timestamp": "2025-03-16T20:31:37.451198",
+        "status": "accepted",
+        "price": 13.68
+    },
+    {
+        "user_id": "bcc86227-0596-4d45-95d1-9ab396c830f5",
+        "pickup_location": "Waltersville",
+        "destination": "New James",
+        "timestamp": "2025-03-16T20:31:37.451573",
+        "status": "completed",
+        "price": 47.66
+    },
+    {
+        "user_id": "2fae91cc-6684-46fd-ab20-3d1a2b4ff775",
+        "pickup_location": "North Alexandria",
+        "destination": "Rachelchester",
+        "timestamp": "2025-03-16T20:31:37.451938",
+        "status": "completed",
+        "price": 45.39
+    },
+    {
+        "user_id": "5b2382ee-b85f-476c-99b2-0033938a785d",
+        "pickup_location": "West Sarah",
+        "destination": "Port Melvintown",
+        "timestamp": "2025-03-16T20:31:37.452229",
+        "status": "cancelled",
+        "price": 24.98
+    },
+    {
+        "user_id": "36d101e5-82ab-49ed-9837-6b4586636b3f",
+        "pickup_location": "Hayesville",
+        "destination": "Port Nicole",
+        "timestamp": "2025-03-16T20:31:37.452504",
+        "status": "accepted",
+        "price": 34.13
+    },
+    {
+        "user_id": "f812c567-0703-4be5-8c07-8f2467abfbfe",
+        "pickup_location": "East Michael",
+        "destination": "Bensonborough",
+        "timestamp": "2025-03-16T20:31:37.452843",
+        "status": "completed",
+        "price": 40.83
+    },
+    {
+        "user_id": "a5a64ef0-9abd-4790-b7ff-79da37acf002",
+        "pickup_location": "Khanberg",
+        "destination": "North Joseph",
+        "timestamp": "2025-03-16T20:31:37.453201",
+        "status": "ongoing",
+        "price": 32.1
+    },
+    {
+        "user_id": "df1cd6f8-ec9f-43f1-a047-7bac3e52ab35",
+        "pickup_location": "Jenniferbury",
+        "destination": "Chapmanview",
+        "timestamp": "2025-03-16T20:31:37.453533",
+        "status": "accepted",
+        "price": 43.61
+    },
+    {
+        "user_id": "93018938-3854-4f02-b5d3-541e5a31ae5f",
+        "pickup_location": "East Christopherchester",
+        "destination": "Gonzalezmouth",
+        "timestamp": "2025-03-16T20:31:37.453876",
+        "status": "ongoing",
+        "price": 17.8
+    },
+    {
+        "user_id": "0f6f9d6b-2e27-43e2-9cb9-e6075498f345",
+        "pickup_location": "North Claudiatown",
+        "destination": "Port Michaelmouth",
+        "timestamp": "2025-03-16T20:31:37.454251",
+        "status": "cancelled",
+        "price": 26.61
+    },
+    {
+        "user_id": "b673da3e-40a4-483e-8c3c-09a93ef795d0",
+        "pickup_location": "Susanchester",
+        "destination": "Susantown",
+        "timestamp": "2025-03-16T20:31:37.454566",
+        "status": "completed",
+        "price": 50.0
+    },
+    {
+        "user_id": "8457d0e8-4167-4d5b-b9ef-fd780675eea9",
+        "pickup_location": "Melissastad",
+        "destination": "Port Jessica",
+        "timestamp": "2025-03-16T20:31:37.454870",
+        "status": "completed",
+        "price": 34.81
+    },
+    {
+        "user_id": "bd445372-5e07-4350-95d8-4e1b2a8ea39a",
+        "pickup_location": "Stewartfort",
+        "destination": "East Laurenfurt",
+        "timestamp": "2025-03-16T20:31:37.455169",
+        "status": "cancelled",
+        "price": 37.42
+    },
+    {
+        "user_id": "bc0e06cb-8ddf-4248-8c0c-b879a8a8b159",
+        "pickup_location": "West Ryantown",
+        "destination": "North Melinda",
+        "timestamp": "2025-03-16T20:31:37.455503",
+        "status": "requested",
+        "price": 30.74
+    },
+    {
+        "user_id": "8991b118-1e88-4ec9-afea-c02e0388c233",
+        "pickup_location": "Jamesmouth",
+        "destination": "Katherinemouth",
+        "timestamp": "2025-03-16T20:31:37.455803",
+        "status": "ongoing",
+        "price": 20.0
+    },
+    {
+        "user_id": "79dad762-d1b1-4e1d-97ae-89f43826bc76",
+        "pickup_location": "Lake Vanessaborough",
+        "destination": "Montgomerybury",
+        "timestamp": "2025-03-16T20:31:37.456090",
+        "status": "accepted",
+        "price": 24.4
+    },
+    {
+        "user_id": "180d7acb-5537-42de-a12d-51dfdbb2c6fe",
+        "pickup_location": "Sarahside",
+        "destination": "Port Lorimouth",
+        "timestamp": "2025-03-16T20:31:37.456411",
+        "status": "accepted",
+        "price": 40.89
+    },
+    {
+        "user_id": "00bc14a4-d978-4336-a691-849397c26191",
+        "pickup_location": "Lake Troy",
+        "destination": "Sullivanbury",
+        "timestamp": "2025-03-16T20:31:37.456742",
+        "status": "cancelled",
+        "price": 41.59
+    },
+    {
+        "user_id": "74c4b1e4-7c7a-4dde-beb0-a20cb7ca5132",
+        "pickup_location": "Gardnerberg",
+        "destination": "East Emmachester",
+        "timestamp": "2025-03-16T20:31:37.457083",
+        "status": "completed",
+        "price": 28.61
+    },
+    {
+        "user_id": "582dad95-305d-4a6a-9177-b6d1a2649501",
+        "pickup_location": "Rodriguezfort",
+        "destination": "Karenshire",
+        "timestamp": "2025-03-16T20:31:37.457452",
+        "status": "accepted",
+        "price": 38.0
+    },
+    {
+        "user_id": "1a7bc389-a71e-47b1-bd6b-2990bd5739dd",
+        "pickup_location": "East Amystad",
+        "destination": "East Stephanie",
+        "timestamp": "2025-03-16T20:31:37.457806",
+        "status": "completed",
+        "price": 14.0
+    },
+    {
+        "user_id": "c90e8061-54b7-4f4b-a652-893fc4b845ac",
+        "pickup_location": "Lake Charlenechester",
+        "destination": "Kevinport",
+        "timestamp": "2025-03-16T20:31:37.458102",
+        "status": "ongoing",
+        "price": 17.36
+    },
+    {
+        "user_id": "9e70da7c-b046-46b6-a529-a1c42a86d088",
+        "pickup_location": "Lake Sarah",
+        "destination": "Acostahaven",
+        "timestamp": "2025-03-16T20:31:37.458393",
+        "status": "completed",
+        "price": 9.13
+    },
+    {
+        "user_id": "2aca2e87-d777-4778-8481-e4ef7735889d",
+        "pickup_location": "South Valerieshire",
+        "destination": "Johnsonport",
+        "timestamp": "2025-03-16T20:31:37.458765",
+        "status": "cancelled",
+        "price": 37.04
+    },
+    {
+        "user_id": "9e30b733-8499-4aa8-aacb-8077ad25fed9",
+        "pickup_location": "Terryview",
+        "destination": "New Kevin",
+        "timestamp": "2025-03-16T20:31:37.459101",
+        "status": "ongoing",
+        "price": 5.32
+    },
+    {
+        "user_id": "f582c6e1-f839-470c-abd0-802d8cc7220c",
+        "pickup_location": "Martinberg",
+        "destination": "East Robertfurt",
+        "timestamp": "2025-03-16T20:31:37.459453",
+        "status": "ongoing",
+        "price": 19.48
+    },
+    {
+        "user_id": "75e3c230-43ed-4a81-b7e4-32f10ed01f9a",
+        "pickup_location": "Ashleyside",
+        "destination": "Port Deannamouth",
+        "timestamp": "2025-03-16T20:31:37.459756",
+        "status": "cancelled",
+        "price": 11.33
+    },
+    {
+        "user_id": "9ebb84ef-d052-44ff-be67-fbcb0ae34c80",
+        "pickup_location": "Lopezchester",
+        "destination": "Port Crystalfurt",
+        "timestamp": "2025-03-16T20:31:37.460029",
+        "status": "completed",
+        "price": 35.77
+    },
+    {
+        "user_id": "b7aa6c33-5528-4705-891f-1cf628c388d6",
+        "pickup_location": "Port Gregoryborough",
+        "destination": "Jessicafort",
+        "timestamp": "2025-03-16T20:31:37.460374",
+        "status": "cancelled",
+        "price": 38.07
+    },
+    {
+        "user_id": "a4940712-7c14-4da5-973b-02eaa821b43f",
+        "pickup_location": "West Paultown",
+        "destination": "Kellyberg",
+        "timestamp": "2025-03-16T20:31:37.460664",
+        "status": "accepted",
+        "price": 35.04
+    },
+    {
+        "user_id": "915931e3-52f4-4ec4-99df-1fd05612e458",
+        "pickup_location": "West Stephenburgh",
+        "destination": "Christinaville",
+        "timestamp": "2025-03-16T20:31:37.461003",
+        "status": "ongoing",
+        "price": 29.44
+    },
+    {
+        "user_id": "eae00ad5-7468-453d-8f49-05e455236928",
+        "pickup_location": "Randallborough",
+        "destination": "Jeremymouth",
+        "timestamp": "2025-03-16T20:31:37.461303",
+        "status": "completed",
+        "price": 48.24
+    },
+    {
+        "user_id": "e72bc0c5-d12f-4af6-b16a-852fee2a9fb4",
+        "pickup_location": "New Glennberg",
+        "destination": "Lake John",
+        "timestamp": "2025-03-16T20:31:37.461574",
+        "status": "requested",
+        "price": 23.3
+    },
+    {
+        "user_id": "70507151-24ea-44d1-a42a-fd29d8093ec5",
+        "pickup_location": "Whitneyhaven",
+        "destination": "New Kimberly",
+        "timestamp": "2025-03-16T20:31:37.461850",
+        "status": "requested",
+        "price": 34.85
+    },
+    {
+        "user_id": "1e825afb-1743-4b67-80db-a12c93ebff0b",
+        "pickup_location": "Barryport",
+        "destination": "Port Elizabethland",
+        "timestamp": "2025-03-16T20:31:37.462111",
+        "status": "ongoing",
+        "price": 40.98
+    },
+    {
+        "user_id": "ad43606f-5161-4569-b5f3-22420b6de227",
+        "pickup_location": "Thompsonmouth",
+        "destination": "North Trevorview",
+        "timestamp": "2025-03-16T20:31:37.462399",
+        "status": "requested",
+        "price": 28.14
+    },
+    {
+        "user_id": "d75554a7-471b-476f-b92e-d2ed7bf8995a",
+        "pickup_location": "Finleyton",
+        "destination": "Gibsontown",
+        "timestamp": "2025-03-16T20:31:37.462742",
+        "status": "ongoing",
+        "price": 34.24
+    },
+    {
+        "user_id": "3fe3b37f-7728-4860-ad80-f596de9b90b2",
+        "pickup_location": "North Randyton",
+        "destination": "Duncantown",
+        "timestamp": "2025-03-16T20:31:37.463158",
+        "status": "cancelled",
+        "price": 17.96
+    },
+    {
+        "user_id": "74ba7e91-bcf1-436b-89ea-486889abf1dc",
+        "pickup_location": "North Brandon",
+        "destination": "Stewartland",
+        "timestamp": "2025-03-16T20:31:37.463477",
+        "status": "accepted",
+        "price": 15.58
+    },
+    {
+        "user_id": "bee8afaa-10f9-4b99-a908-536e90c6478c",
+        "pickup_location": "Stephenland",
+        "destination": "Aguilarmouth",
+        "timestamp": "2025-03-16T20:31:37.463790",
+        "status": "requested",
+        "price": 11.37
+    },
+    {
+        "user_id": "ab5ac857-914c-4349-9bb6-d8460908327a",
+        "pickup_location": "East Anthonyburgh",
+        "destination": "Dalebury",
+        "timestamp": "2025-03-16T20:31:37.464102",
+        "status": "cancelled",
+        "price": 47.31
+    },
+    {
+        "user_id": "db521b4a-5de7-4e05-b5c3-f02963769569",
+        "pickup_location": "Carrstad",
+        "destination": "Josemouth",
+        "timestamp": "2025-03-16T20:31:37.464555",
+        "status": "accepted",
+        "price": 34.88
+    },
+    {
+        "user_id": "3b72a47e-e614-4ffc-a66d-d75442b6ec71",
+        "pickup_location": "East Philipborough",
+        "destination": "Port Victoriaville",
+        "timestamp": "2025-03-16T20:31:37.464852",
+        "status": "requested",
+        "price": 24.36
+    },
+    {
+        "user_id": "b70a5c8f-03f9-4b49-a37c-d4daf148ee0b",
+        "pickup_location": "Lake Roberttown",
+        "destination": "East Katherineshire",
+        "timestamp": "2025-03-16T20:31:37.465093",
+        "status": "completed",
+        "price": 40.66
+    },
+    {
+        "user_id": "482de852-07c2-4b40-805e-2eac7465e3eb",
+        "pickup_location": "Port Diana",
+        "destination": "East Andrew",
+        "timestamp": "2025-03-16T20:31:37.465345",
+        "status": "accepted",
+        "price": 46.29
+    },
+    {
+        "user_id": "98f12f14-2ebb-46b9-9610-90c4bb9aa86f",
+        "pickup_location": "Murphyberg",
+        "destination": "Deborahberg",
+        "timestamp": "2025-03-16T20:31:37.465536",
+        "status": "completed",
+        "price": 19.14
+    },
+    {
+        "user_id": "5a374857-12a2-47ea-8166-59a137d6c2b9",
+        "pickup_location": "Gomezstad",
+        "destination": "South Robertport",
+        "timestamp": "2025-03-16T20:31:37.465870",
+        "status": "accepted",
+        "price": 47.74
+    },
+    {
+        "user_id": "01e356ed-fe2d-4054-a16d-1b639c85215d",
+        "pickup_location": "South Hannah",
+        "destination": "Lake Jessica",
+        "timestamp": "2025-03-16T20:31:37.466148",
+        "status": "requested",
+        "price": 36.27
+    },
+    {
+        "user_id": "1988a128-a320-45dd-a583-0132ad9c1148",
+        "pickup_location": "Walshmouth",
+        "destination": "North Melissaland",
+        "timestamp": "2025-03-16T20:31:37.466361",
+        "status": "requested",
+        "price": 23.57
+    },
+    {
+        "user_id": "67511de2-62ec-48e4-9dd6-5081bcdcbfd0",
+        "pickup_location": "Vanessaton",
+        "destination": "South Robert",
+        "timestamp": "2025-03-16T20:31:37.466679",
+        "status": "ongoing",
+        "price": 15.08
+    },
+    {
+        "user_id": "8d1994f6-290c-4f01-9120-78e40c2be4ef",
+        "pickup_location": "East Cory",
+        "destination": "East John",
+        "timestamp": "2025-03-16T20:31:37.466960",
+        "status": "cancelled",
+        "price": 33.72
+    },
+    {
+        "user_id": "61634218-418f-47f7-9724-b2d28ec1909e",
+        "pickup_location": "Audreyborough",
+        "destination": "Port Thomasmouth",
+        "timestamp": "2025-03-16T20:31:37.467241",
+        "status": "completed",
+        "price": 41.85
+    },
+    {
+        "user_id": "a839ab09-d4d1-4bb3-96a4-19cf6d85f6f9",
+        "pickup_location": "Glennside",
+        "destination": "North Cynthia",
+        "timestamp": "2025-03-16T20:31:37.467542",
+        "status": "requested",
+        "price": 48.95
+    },
+    {
+        "user_id": "1defd5d9-b734-4327-ae2e-d1516145af65",
+        "pickup_location": "Schaeferfort",
+        "destination": "West Adamland",
+        "timestamp": "2025-03-16T20:31:37.467893",
+        "status": "accepted",
+        "price": 11.02
+    },
+    {
+        "user_id": "cc8c9373-7535-4d6c-a2d8-212be0ea5357",
+        "pickup_location": "Smithchester",
+        "destination": "Lake Becky",
+        "timestamp": "2025-03-16T20:31:37.468163",
+        "status": "ongoing",
+        "price": 30.55
+    },
+    {
+        "user_id": "174fb030-5933-43a1-8e67-d17701580cc3",
+        "pickup_location": "Sanchezside",
+        "destination": "Port Paul",
+        "timestamp": "2025-03-16T20:31:37.468397",
+        "status": "requested",
+        "price": 44.89
+    },
+    {
+        "user_id": "2f9b204e-4381-4874-9501-da0f73448533",
+        "pickup_location": "Harrisborough",
+        "destination": "Greeneville",
+        "timestamp": "2025-03-16T20:31:37.468696",
+        "status": "requested",
+        "price": 29.24
+    },
+    {
+        "user_id": "ebfb3d93-3d6a-4c03-806d-42a73ababd2e",
+        "pickup_location": "Lake Michaelstad",
+        "destination": "Collinsberg",
+        "timestamp": "2025-03-16T20:31:37.469056",
+        "status": "requested",
+        "price": 36.67
+    },
+    {
+        "user_id": "26a72e2c-4c94-408b-9565-a5d1b5e1e9fa",
+        "pickup_location": "Tranport",
+        "destination": "South Ryan",
+        "timestamp": "2025-03-16T20:31:37.469360",
+        "status": "ongoing",
+        "price": 21.34
+    },
+    {
+        "user_id": "330f3961-1e80-4649-b7ea-cfd085f44a77",
+        "pickup_location": "East Anthonyside",
+        "destination": "North Emily",
+        "timestamp": "2025-03-16T20:31:37.469707",
+        "status": "completed",
+        "price": 34.41
+    },
+    {
+        "user_id": "41af45fc-a995-49c5-a89e-946629b26cca",
+        "pickup_location": "South Ronaldland",
+        "destination": "West Amanda",
+        "timestamp": "2025-03-16T20:31:37.469987",
+        "status": "requested",
+        "price": 32.3
+    },
+    {
+        "user_id": "9b83b2df-8c28-4c23-88e4-c149348d6fae",
+        "pickup_location": "Maryport",
+        "destination": "Veronicahaven",
+        "timestamp": "2025-03-16T20:31:37.470251",
+        "status": "accepted",
+        "price": 41.08
+    },
+    {
+        "user_id": "a76c9f94-4358-4d23-b858-0b7c21c0f8f1",
+        "pickup_location": "Williamside",
+        "destination": "Kylemouth",
+        "timestamp": "2025-03-16T20:31:37.470522",
+        "status": "cancelled",
+        "price": 45.92
+    },
+    {
+        "user_id": "42da1af9-e627-486c-8b25-b8d8c0391e3c",
+        "pickup_location": "Lake Petershire",
+        "destination": "East Richardstad",
+        "timestamp": "2025-03-16T20:31:37.470822",
+        "status": "accepted",
+        "price": 34.8
+    },
+    {
+        "user_id": "4f736741-0feb-471f-83ce-876540a13070",
+        "pickup_location": "New Sarah",
+        "destination": "West Williamshire",
+        "timestamp": "2025-03-16T20:31:37.471098",
+        "status": "requested",
+        "price": 15.2
+    },
+    {
+        "user_id": "8eb471c5-d77c-45b8-bf48-8246045545bb",
+        "pickup_location": "Tatefort",
+        "destination": "Nicoleport",
+        "timestamp": "2025-03-16T20:31:37.471388",
+        "status": "requested",
+        "price": 16.87
+    },
+    {
+        "user_id": "87022374-d41e-4227-836f-08647c71258f",
+        "pickup_location": "Peterburgh",
+        "destination": "East Georgeburgh",
+        "timestamp": "2025-03-16T20:31:37.471725",
+        "status": "ongoing",
+        "price": 33.47
+    },
+    {
+        "user_id": "33a8da38-43aa-421c-8a5d-2587c5d649ba",
+        "pickup_location": "South Pamela",
+        "destination": "Victoriafurt",
+        "timestamp": "2025-03-16T20:31:37.472025",
+        "status": "ongoing",
+        "price": 28.46
+    },
+    {
+        "user_id": "30eb54d7-b54a-4ccf-af8e-bdedfc7e845b",
+        "pickup_location": "North Kristinestad",
+        "destination": "Mosleymouth",
+        "timestamp": "2025-03-16T20:31:37.472309",
+        "status": "cancelled",
+        "price": 30.13
+    },
+    {
+        "user_id": "aa33e679-bfcf-4684-bccd-0c75215fb723",
+        "pickup_location": "Ronaldshire",
+        "destination": "East Jacobport",
+        "timestamp": "2025-03-16T20:31:37.472663",
+        "status": "cancelled",
+        "price": 21.79
+    },
+    {
+        "user_id": "2c41dd58-5f43-4f20-a928-77001be4622d",
+        "pickup_location": "Port Tylerport",
+        "destination": "North Eduardochester",
+        "timestamp": "2025-03-16T20:31:37.472957",
+        "status": "completed",
+        "price": 10.41
+    },
+    {
+        "user_id": "a5d50794-c99c-4e61-aa09-b544f04290e5",
+        "pickup_location": "New Martin",
+        "destination": "East Stevenhaven",
+        "timestamp": "2025-03-16T20:31:37.473248",
+        "status": "requested",
+        "price": 12.58
+    },
+    {
+        "user_id": "a39b1dd8-df55-400b-b7c2-05cb80262a87",
+        "pickup_location": "Lake Jessica",
+        "destination": "Donnafort",
+        "timestamp": "2025-03-16T20:31:37.473499",
+        "status": "requested",
+        "price": 18.44
+    },
+    {
+        "user_id": "f5d62b17-2a98-41fb-b746-e7a92028fd60",
+        "pickup_location": "West Jennifer",
+        "destination": "Port Audrey",
+        "timestamp": "2025-03-16T20:31:37.473827",
+        "status": "cancelled",
+        "price": 27.45
+    },
+    {
+        "user_id": "c4b7ad39-7516-4cdf-9d08-43f4d14e2508",
+        "pickup_location": "New Jonathanstad",
+        "destination": "Lake Joan",
+        "timestamp": "2025-03-16T20:31:37.474100",
+        "status": "ongoing",
+        "price": 11.27
+    },
+    {
+        "user_id": "2d9c6500-f10f-4405-a779-bebb1aa1929f",
+        "pickup_location": "North Barbarafurt",
+        "destination": "Rileyland",
+        "timestamp": "2025-03-16T20:31:37.474392",
+        "status": "requested",
+        "price": 9.94
+    },
+    {
+        "user_id": "ed3a3735-a95d-4751-b572-2b27bba0b769",
+        "pickup_location": "Mariaton",
+        "destination": "Port Justinside",
+        "timestamp": "2025-03-16T20:31:37.474723",
+        "status": "completed",
+        "price": 6.85
+    },
+    {
+        "user_id": "287bfbdf-6182-47a8-be00-3635d00bc5b3",
+        "pickup_location": "West Christine",
+        "destination": "Lake Theresaland",
+        "timestamp": "2025-03-16T20:31:37.475032",
+        "status": "completed",
+        "price": 13.22
+    },
+    {
+        "user_id": "160147e7-ffad-4e6c-b9f2-d30e4630a189",
+        "pickup_location": "Port Michelleton",
+        "destination": "Danielsburgh",
+        "timestamp": "2025-03-16T20:31:37.475348",
+        "status": "cancelled",
+        "price": 5.93
+    },
+    {
+        "user_id": "b60084f5-1688-4949-9b97-c188ed0c7a37",
+        "pickup_location": "Parkschester",
+        "destination": "Micheleshire",
+        "timestamp": "2025-03-16T20:31:37.476374",
+        "status": "accepted",
+        "price": 31.05
+    },
+    {
+        "user_id": "72380dbb-552b-4d01-8c4c-b74770dc9e3f",
+        "pickup_location": "Timothystad",
+        "destination": "South Elijahbury",
+        "timestamp": "2025-03-16T20:31:37.476784",
+        "status": "completed",
+        "price": 42.8
+    },
+    {
+        "user_id": "03e56fac-10c7-4ab1-ab4c-43241f91a3d8",
+        "pickup_location": "Courtneymouth",
+        "destination": "Annamouth",
+        "timestamp": "2025-03-16T20:31:37.477125",
+        "status": "completed",
+        "price": 18.87
+    },
+    {
+        "user_id": "bcfaa20c-2b9a-42ff-bf8b-76d6556d00d3",
+        "pickup_location": "Hoovermouth",
+        "destination": "Kennedyville",
+        "timestamp": "2025-03-16T20:31:37.477427",
+        "status": "completed",
+        "price": 32.61
+    },
+    {
+        "user_id": "d247755f-ff19-4461-892b-362af61d5d6b",
+        "pickup_location": "East Melissastad",
+        "destination": "New Rodney",
+        "timestamp": "2025-03-16T20:31:37.477880",
+        "status": "completed",
+        "price": 20.54
+    },
+    {
+        "user_id": "a714e8ec-e444-4d43-a40b-2b7dd956f45b",
+        "pickup_location": "Lake Colleenview",
+        "destination": "Munozmouth",
+        "timestamp": "2025-03-16T20:31:37.478198",
+        "status": "requested",
+        "price": 7.58
+    },
+    {
+        "user_id": "4d8b48a4-e125-40c3-ab9e-7c7587129cf0",
+        "pickup_location": "New William",
+        "destination": "South Erikabury",
+        "timestamp": "2025-03-16T20:31:37.478544",
+        "status": "ongoing",
+        "price": 38.71
+    },
+    {
+        "user_id": "ea460977-dff3-4894-a400-47c47046b3b2",
+        "pickup_location": "Lake Jenniferland",
+        "destination": "Port Angelica",
+        "timestamp": "2025-03-16T20:31:37.478872",
+        "status": "accepted",
+        "price": 45.23
+    },
+    {
+        "user_id": "cddc3c12-284b-48a7-99ce-774e19656d02",
+        "pickup_location": "Port Danielle",
+        "destination": "Boydshire",
+        "timestamp": "2025-03-16T20:31:37.479162",
+        "status": "accepted",
+        "price": 39.61
+    },
+    {
+        "user_id": "c26469c2-26ce-4b96-8db9-0bc2dbd00c32",
+        "pickup_location": "North Melissaville",
+        "destination": "West Edward",
+        "timestamp": "2025-03-16T20:31:37.479490",
+        "status": "accepted",
+        "price": 34.2
+    },
+    {
+        "user_id": "bfd81b8a-b05b-4bf7-8466-78bfc775636d",
+        "pickup_location": "Edwardmouth",
+        "destination": "Lamburgh",
+        "timestamp": "2025-03-16T20:31:37.479827",
+        "status": "accepted",
+        "price": 11.25
+    },
+    {
+        "user_id": "bfdc6eaf-ac58-491c-8826-72be1dc6a454",
+        "pickup_location": "Smithhaven",
+        "destination": "East Josechester",
+        "timestamp": "2025-03-16T20:31:37.480179",
+        "status": "requested",
+        "price": 41.58
+    },
+    {
+        "user_id": "21ceb8bd-60c9-47f3-aa23-7ebb43863caa",
+        "pickup_location": "North Phillipstad",
+        "destination": "Lake Amandaview",
+        "timestamp": "2025-03-16T20:31:37.480505",
+        "status": "cancelled",
+        "price": 34.42
+    },
+    {
+        "user_id": "2eb27502-6aba-4f79-afac-675131adf02c",
+        "pickup_location": "New Hollyside",
+        "destination": "West Ashley",
+        "timestamp": "2025-03-16T20:31:37.480813",
+        "status": "ongoing",
+        "price": 44.23
+    },
+    {
+        "user_id": "afaa8273-5943-45b5-a2bb-961fa05c707d",
+        "pickup_location": "Lake Elizabeth",
+        "destination": "North Joseph",
+        "timestamp": "2025-03-16T20:31:37.481117",
+        "status": "requested",
+        "price": 39.56
+    },
+    {
+        "user_id": "730c91ef-f8ba-4c82-bbdc-63f762b7ebf5",
+        "pickup_location": "South Kimberly",
+        "destination": "Jessicaburgh",
+        "timestamp": "2025-03-16T20:31:37.481380",
+        "status": "accepted",
+        "price": 5.93
+    },
+    {
+        "user_id": "1337c772-b014-403d-985c-f35d6f24c45b",
+        "pickup_location": "Floresland",
+        "destination": "Howemouth",
+        "timestamp": "2025-03-16T20:31:37.481621",
+        "status": "cancelled",
+        "price": 13.47
+    },
+    {
+        "user_id": "4110feee-a3e4-477b-a716-bec36b9e27bf",
+        "pickup_location": "Jacobhaven",
+        "destination": "South Bethfort",
+        "timestamp": "2025-03-16T20:31:37.482009",
+        "status": "requested",
+        "price": 8.38
+    },
+    {
+        "user_id": "559de6ee-942b-43d6-a256-96bbe187ea61",
+        "pickup_location": "Lake Gary",
+        "destination": "Lake Amy",
+        "timestamp": "2025-03-16T20:31:37.482293",
+        "status": "completed",
+        "price": 45.06
+    },
+    {
+        "user_id": "ef8ce5ec-8545-4380-8ecf-582082c92eab",
+        "pickup_location": "North Laurashire",
+        "destination": "South Ginashire",
+        "timestamp": "2025-03-16T20:31:37.482576",
+        "status": "ongoing",
+        "price": 15.39
+    },
+    {
+        "user_id": "96ee532d-be81-495b-84ca-4953c55a892c",
+        "pickup_location": "Lake Margaret",
+        "destination": "Kimberlyberg",
+        "timestamp": "2025-03-16T20:31:37.482910",
+        "status": "requested",
+        "price": 49.46
+    },
+    {
+        "user_id": "a6af5f55-5009-44de-b764-8a9719120625",
+        "pickup_location": "Elizabethville",
+        "destination": "Kevinfurt",
+        "timestamp": "2025-03-16T20:31:37.483181",
+        "status": "accepted",
+        "price": 17.32
+    },
+    {
+        "user_id": "a6087fcd-c2d9-4168-bedc-eb4f259b2cb1",
+        "pickup_location": "Andreachester",
+        "destination": "New Alexanderland",
+        "timestamp": "2025-03-16T20:31:37.483464",
+        "status": "ongoing",
+        "price": 8.59
+    },
+    {
+        "user_id": "16852070-f739-4542-b0f8-ed1d877c3b3c",
+        "pickup_location": "Greenton",
+        "destination": "Jacksonborough",
+        "timestamp": "2025-03-16T20:31:37.483787",
+        "status": "ongoing",
+        "price": 34.67
+    },
+    {
+        "user_id": "50b44668-ba63-4f6f-a5ad-d8c74f01800c",
+        "pickup_location": "Caseymouth",
+        "destination": "Lake Richardside",
+        "timestamp": "2025-03-16T20:31:37.484145",
+        "status": "accepted",
+        "price": 24.51
+    },
+    {
+        "user_id": "77ba1670-4e07-463b-9550-b2b85b67bd8b",
+        "pickup_location": "Allenport",
+        "destination": "Madisontown",
+        "timestamp": "2025-03-16T20:31:37.484461",
+        "status": "ongoing",
+        "price": 13.62
+    },
+    {
+        "user_id": "2123f215-1d9a-4404-9bd8-dde99c835088",
+        "pickup_location": "Potterland",
+        "destination": "South Mason",
+        "timestamp": "2025-03-16T20:31:37.484802",
+        "status": "accepted",
+        "price": 18.57
+    },
+    {
+        "user_id": "1e71aadf-1a10-4ad4-9402-8a5bdf9eea43",
+        "pickup_location": "Gonzalezville",
+        "destination": "Sullivanshire",
+        "timestamp": "2025-03-16T20:31:37.485102",
+        "status": "ongoing",
+        "price": 17.82
+    },
+    {
+        "user_id": "4f0ec222-09dd-4461-b4cb-a7238cc6feb0",
+        "pickup_location": "West Karenland",
+        "destination": "Lake Jennifer",
+        "timestamp": "2025-03-16T20:31:37.485469",
+        "status": "requested",
+        "price": 28.44
+    },
+    {
+        "user_id": "518aa046-f530-4a63-b27c-03dee46b0d6a",
+        "pickup_location": "Bentleyville",
+        "destination": "Lake Danielchester",
+        "timestamp": "2025-03-16T20:31:37.485873",
+        "status": "ongoing",
+        "price": 43.37
+    },
+    {
+        "user_id": "68f26a34-f9ba-4346-a8c9-a21e389bce1f",
+        "pickup_location": "Davidton",
+        "destination": "East Robert",
+        "timestamp": "2025-03-16T20:31:37.486236",
+        "status": "accepted",
+        "price": 29.56
+    },
+    {
+        "user_id": "a6f2a8bb-46dc-40d9-8169-664dfd581e40",
+        "pickup_location": "Albertmouth",
+        "destination": "South Jesus",
+        "timestamp": "2025-03-16T20:31:37.486506",
+        "status": "requested",
+        "price": 14.19
+    },
+    {
+        "user_id": "383c96e1-40e5-428e-bdd1-03dfd98abd39",
+        "pickup_location": "Jonestown",
+        "destination": "New Brianmouth",
+        "timestamp": "2025-03-16T20:31:37.486837",
+        "status": "requested",
+        "price": 28.91
+    },
+    {
+        "user_id": "a0e74d48-e0dd-4022-9b47-78f0e3b8304d",
+        "pickup_location": "Port Kenneth",
+        "destination": "Bruceland",
+        "timestamp": "2025-03-16T20:31:37.487221",
+        "status": "requested",
+        "price": 44.02
+    },
+    {
+        "user_id": "634f7f15-4f06-4c2c-9f2d-58f49397afb0",
+        "pickup_location": "Riveraborough",
+        "destination": "Adkinsville",
+        "timestamp": "2025-03-16T20:31:37.487467",
+        "status": "completed",
+        "price": 46.79
+    },
+    {
+        "user_id": "588620fc-04f2-435c-90e8-3aa13bfb146b",
+        "pickup_location": "Kramerbury",
+        "destination": "Port Rhondaborough",
+        "timestamp": "2025-03-16T20:31:37.487901",
+        "status": "accepted",
+        "price": 20.38
+    },
+    {
+        "user_id": "4bf02e30-201a-47e5-ad7f-1ca71926c813",
+        "pickup_location": "Robertfurt",
+        "destination": "Richardschester",
+        "timestamp": "2025-03-16T20:31:37.488245",
+        "status": "completed",
+        "price": 7.27
+    },
+    {
+        "user_id": "7049d085-f429-4a72-9662-343fa97d2c5b",
+        "pickup_location": "New Melindaville",
+        "destination": "West Debra",
+        "timestamp": "2025-03-16T20:31:37.488581",
+        "status": "cancelled",
+        "price": 30.2
+    },
+    {
+        "user_id": "4d2e8466-e978-4e0f-ae79-8170b486109d",
+        "pickup_location": "Reyeschester",
+        "destination": "South Michaelchester",
+        "timestamp": "2025-03-16T20:31:37.488887",
+        "status": "ongoing",
+        "price": 31.56
+    },
+    {
+        "user_id": "b024e84f-7dfd-462f-8167-8204264f1baf",
+        "pickup_location": "Tammystad",
+        "destination": "Shahmouth",
+        "timestamp": "2025-03-16T20:31:37.489269",
+        "status": "cancelled",
+        "price": 16.66
+    },
+    {
+        "user_id": "e8a23a91-9ed1-4493-9826-f07c34415338",
+        "pickup_location": "Lake Timothy",
+        "destination": "North Garretthaven",
+        "timestamp": "2025-03-16T20:31:37.489596",
+        "status": "ongoing",
+        "price": 33.33
+    },
+    {
+        "user_id": "ac398d23-a494-4407-a18c-38235170114c",
+        "pickup_location": "East Yesenialand",
+        "destination": "Lake Jodi",
+        "timestamp": "2025-03-16T20:31:37.489908",
+        "status": "accepted",
+        "price": 40.24
+    },
+    {
+        "user_id": "60e6a2a7-7ba3-4d67-b07b-f1898d9b427e",
+        "pickup_location": "West Sherry",
+        "destination": "Monicatown",
+        "timestamp": "2025-03-16T20:31:37.490209",
+        "status": "ongoing",
+        "price": 34.13
+    },
+    {
+        "user_id": "d6442884-460b-4098-947a-1b61082139f0",
+        "pickup_location": "Port Carl",
+        "destination": "Wilsonfurt",
+        "timestamp": "2025-03-16T20:31:37.490480",
+        "status": "ongoing",
+        "price": 35.93
+    },
+    {
+        "user_id": "34e4485d-b89e-487d-88ef-081f7c279cb4",
+        "pickup_location": "Morgantown",
+        "destination": "Port Michael",
+        "timestamp": "2025-03-16T20:31:37.490840",
+        "status": "ongoing",
+        "price": 49.32
+    },
+    {
+        "user_id": "3ee7e87d-5cdb-493c-ab3c-20f7127cd88c",
+        "pickup_location": "East Victoria",
+        "destination": "Steventown",
+        "timestamp": "2025-03-16T20:31:37.491140",
+        "status": "requested",
+        "price": 12.14
+    },
+    {
+        "user_id": "85e99db2-692b-4305-9dea-ec2d398ad8b6",
+        "pickup_location": "Toddbury",
+        "destination": "Davisbury",
+        "timestamp": "2025-03-16T20:31:37.491420",
+        "status": "requested",
+        "price": 23.36
+    },
+    {
+        "user_id": "0efe5e82-bef5-46a3-99bc-6a42045299c4",
+        "pickup_location": "Carmenberg",
+        "destination": "Andersonshire",
+        "timestamp": "2025-03-16T20:31:37.491756",
+        "status": "cancelled",
+        "price": 17.57
+    },
+    {
+        "user_id": "def358e8-7ada-4f92-be4a-0c474d8b0c9f",
+        "pickup_location": "Steelefurt",
+        "destination": "Jacksonside",
+        "timestamp": "2025-03-16T20:31:37.492103",
+        "status": "completed",
+        "price": 23.43
+    },
+    {
+        "user_id": "7527c65d-f4ce-4cad-bf9e-6b09486c867e",
+        "pickup_location": "South Alexandermouth",
+        "destination": "Port Melissaton",
+        "timestamp": "2025-03-16T20:31:37.492508",
+        "status": "completed",
+        "price": 14.85
+    },
+    {
+        "user_id": "b09956cf-7972-4823-baa0-5546c86ac14c",
+        "pickup_location": "Phillipsport",
+        "destination": "West Jack",
+        "timestamp": "2025-03-16T20:31:37.492849",
+        "status": "completed",
+        "price": 39.04
+    },
+    {
+        "user_id": "0ed28ae8-2c1d-4c0b-a400-06845df2dbfe",
+        "pickup_location": "East John",
+        "destination": "South Cameron",
+        "timestamp": "2025-03-16T20:31:37.493207",
+        "status": "ongoing",
+        "price": 7.8
+    },
+    {
+        "user_id": "c478ca33-b6db-4445-b0eb-d496b44a4d12",
+        "pickup_location": "Kennethtown",
+        "destination": "Williamshaven",
+        "timestamp": "2025-03-16T20:31:37.493515",
+        "status": "accepted",
+        "price": 42.63
+    },
+    {
+        "user_id": "a85fd464-4855-4cd4-93a5-dfaf91d09896",
+        "pickup_location": "Wernerside",
+        "destination": "Martinfort",
+        "timestamp": "2025-03-16T20:31:37.493872",
+        "status": "accepted",
+        "price": 22.26
+    },
+    {
+        "user_id": "81b7b229-d378-4070-81f2-a9f863c6bd2e",
+        "pickup_location": "Jefferyburgh",
+        "destination": "East Carmenberg",
+        "timestamp": "2025-03-16T20:31:37.494257",
+        "status": "requested",
+        "price": 25.04
+    },
+    {
+        "user_id": "9d9c857e-1c4c-42f3-9912-bfd30504f721",
+        "pickup_location": "Arroyoshire",
+        "destination": "Brandonburgh",
+        "timestamp": "2025-03-16T20:31:37.494566",
+        "status": "completed",
+        "price": 46.98
+    },
+    {
+        "user_id": "f1d019ef-c6d9-4408-9520-26c48bb19b8e",
+        "pickup_location": "Lake Roberttown",
+        "destination": "New Alisonchester",
+        "timestamp": "2025-03-16T20:31:37.494944",
+        "status": "accepted",
+        "price": 15.24
+    },
+    {
+        "user_id": "98ff0055-80d8-4757-bcf6-7c2fb1e8fe8d",
+        "pickup_location": "Pageshire",
+        "destination": "Timothymouth",
+        "timestamp": "2025-03-16T20:31:37.495240",
+        "status": "accepted",
+        "price": 47.29
+    },
+    {
+        "user_id": "4660cb78-dc71-4d57-b3d1-28a48a818362",
+        "pickup_location": "East Rebecca",
+        "destination": "Christopherstad",
+        "timestamp": "2025-03-16T20:31:37.495567",
+        "status": "requested",
+        "price": 38.38
+    },
+    {
+        "user_id": "add89d78-14fb-4ce1-be17-23eee1029b98",
+        "pickup_location": "North Laurabury",
+        "destination": "West Alyssabury",
+        "timestamp": "2025-03-16T20:31:37.495857",
+        "status": "cancelled",
+        "price": 13.94
+    },
+    {
+        "user_id": "36bda83c-6a39-4e83-9d9b-aa0334c2d44d",
+        "pickup_location": "South Haley",
+        "destination": "Michaelshire",
+        "timestamp": "2025-03-16T20:31:37.496152",
+        "status": "requested",
+        "price": 44.38
+    },
+    {
+        "user_id": "4e3aab11-9ee4-4203-bae2-d0bf6e5b37dd",
+        "pickup_location": "Lawrenceburgh",
+        "destination": "New Sabrinaville",
+        "timestamp": "2025-03-16T20:31:37.496425",
+        "status": "requested",
+        "price": 34.98
+    },
+    {
+        "user_id": "77138029-e88f-4818-a752-fdea512846f3",
+        "pickup_location": "Lake Juliebury",
+        "destination": "South Marcus",
+        "timestamp": "2025-03-16T20:31:37.496768",
+        "status": "ongoing",
+        "price": 30.58
+    },
+    {
+        "user_id": "9ec5c6e2-0a6e-4a4e-b822-5ff3fc8dfca6",
+        "pickup_location": "Jamesland",
+        "destination": "Port Brandon",
+        "timestamp": "2025-03-16T20:31:37.497054",
+        "status": "ongoing",
+        "price": 22.61
+    },
+    {
+        "user_id": "e1078f1b-d8e9-4989-92d4-632ac275c69d",
+        "pickup_location": "East Victoriaport",
+        "destination": "Lake Kimberlymouth",
+        "timestamp": "2025-03-16T20:31:37.497337",
+        "status": "completed",
+        "price": 10.74
+    },
+    {
+        "user_id": "b5206d57-6227-4fdf-9ad3-c0513e5779dc",
+        "pickup_location": "Karenborough",
+        "destination": "North Derrickbury",
+        "timestamp": "2025-03-16T20:31:37.497625",
+        "status": "completed",
+        "price": 45.27
+    },
+    {
+        "user_id": "efd610da-90fa-4101-bfa4-3792769d532e",
+        "pickup_location": "Jenniferburgh",
+        "destination": "Lake Sandra",
+        "timestamp": "2025-03-16T20:31:37.497928",
+        "status": "ongoing",
+        "price": 19.25
+    },
+    {
+        "user_id": "bf55963b-a489-47a7-ab0a-1cdf884f2f1b",
+        "pickup_location": "East Nicolestad",
+        "destination": "Ericshire",
+        "timestamp": "2025-03-16T20:31:37.498210",
+        "status": "accepted",
+        "price": 44.78
+    },
+    {
+        "user_id": "f8f9e5c0-0261-454d-a6a0-efdacb7c85c6",
+        "pickup_location": "Sarahland",
+        "destination": "North Kennethshire",
+        "timestamp": "2025-03-16T20:31:37.498489",
+        "status": "ongoing",
+        "price": 5.33
+    },
+    {
+        "user_id": "ffb5965e-d604-4654-b13d-a4c082975eac",
+        "pickup_location": "Port Brittneychester",
+        "destination": "New Michael",
+        "timestamp": "2025-03-16T20:31:37.498802",
+        "status": "ongoing",
+        "price": 32.59
+    },
+    {
+        "user_id": "5abde7cb-68b5-4250-a13a-666f6a076961",
+        "pickup_location": "Codyfurt",
+        "destination": "Lake Jenniferstad",
+        "timestamp": "2025-03-16T20:31:37.499074",
+        "status": "cancelled",
+        "price": 45.48
+    },
+    {
+        "user_id": "1e17c9d9-2ee7-4127-89f7-52e13e9dfa33",
+        "pickup_location": "North Kelly",
+        "destination": "East Allenfort",
+        "timestamp": "2025-03-16T20:31:37.499362",
+        "status": "ongoing",
+        "price": 39.76
+    },
+    {
+        "user_id": "eefbcc38-3dd8-47a4-9dbd-d2009aca63ef",
+        "pickup_location": "Anitafurt",
+        "destination": "Robertsborough",
+        "timestamp": "2025-03-16T20:31:37.499646",
+        "status": "completed",
+        "price": 15.27
+    },
+    {
+        "user_id": "abb9bc3e-fa10-4d66-8d08-8cc3d8963eec",
+        "pickup_location": "South Davidview",
+        "destination": "South Ronaldfurt",
+        "timestamp": "2025-03-16T20:31:37.500022",
+        "status": "completed",
+        "price": 10.36
+    },
+    {
+        "user_id": "c0a264b3-816f-478b-924d-774e6e4b4759",
+        "pickup_location": "Port James",
+        "destination": "Millerfort",
+        "timestamp": "2025-03-16T20:31:37.500353",
+        "status": "requested",
+        "price": 5.49
+    },
+    {
+        "user_id": "62cc276f-79c8-4f93-9d05-51722aa42b42",
+        "pickup_location": "Lake Kristina",
+        "destination": "Port Markview",
+        "timestamp": "2025-03-16T20:31:37.500734",
+        "status": "accepted",
+        "price": 42.59
+    },
+    {
+        "user_id": "71b48e4d-b1ee-473b-9db9-549ddd57631d",
+        "pickup_location": "Lake Andrewborough",
+        "destination": "Michaelmouth",
+        "timestamp": "2025-03-16T20:31:37.501015",
+        "status": "ongoing",
+        "price": 29.87
+    },
+    {
+        "user_id": "21a62854-791c-4063-aa7b-05c75529372b",
+        "pickup_location": "New Belinda",
+        "destination": "Lake Stevenberg",
+        "timestamp": "2025-03-16T20:31:37.501301",
+        "status": "ongoing",
+        "price": 24.15
+    },
+    {
+        "user_id": "19ef95d7-9a00-4692-98db-51f02153af11",
+        "pickup_location": "New Joanne",
+        "destination": "New Henrymouth",
+        "timestamp": "2025-03-16T20:31:37.501575",
+        "status": "accepted",
+        "price": 40.6
+    },
+    {
+        "user_id": "5cdcd49d-8039-4e39-abb6-3e8b8ac40633",
+        "pickup_location": "West Rachelfurt",
+        "destination": "Shanebury",
+        "timestamp": "2025-03-16T20:31:37.501871",
+        "status": "requested",
+        "price": 20.8
+    },
+    {
+        "user_id": "08732481-0ddb-4651-add3-eb346e46beff",
+        "pickup_location": "Smithton",
+        "destination": "West Jeremyport",
+        "timestamp": "2025-03-16T20:31:37.502189",
+        "status": "accepted",
+        "price": 29.32
+    },
+    {
+        "user_id": "916f308b-de0a-411a-93af-5d5f16f50e27",
+        "pickup_location": "North Jonathanborough",
+        "destination": "Laurachester",
+        "timestamp": "2025-03-16T20:31:37.502546",
+        "status": "ongoing",
+        "price": 33.06
+    },
+    {
+        "user_id": "23df662c-7767-4a7c-baf2-00f27a0f1d79",
+        "pickup_location": "Martinezborough",
+        "destination": "Whitneyhaven",
+        "timestamp": "2025-03-16T20:31:37.502912",
+        "status": "cancelled",
+        "price": 35.34
+    },
+    {
+        "user_id": "05acd2e4-18a3-444a-ad2a-7a24b482b29b",
+        "pickup_location": "Kylemouth",
+        "destination": "Port Brooke",
+        "timestamp": "2025-03-16T20:31:37.503327",
+        "status": "accepted",
+        "price": 31.27
+    },
+    {
+        "user_id": "3c12eccc-d106-4ec9-8fd1-9d375e6de1fc",
+        "pickup_location": "Smithmouth",
+        "destination": "Hernandezmouth",
+        "timestamp": "2025-03-16T20:31:37.503605",
+        "status": "cancelled",
+        "price": 15.81
+    },
+    {
+        "user_id": "a3501a58-f2c7-47ab-a6b3-95e5e68a54ef",
+        "pickup_location": "Johnsonburgh",
+        "destination": "New Nancyfurt",
+        "timestamp": "2025-03-16T20:31:37.504010",
+        "status": "ongoing",
+        "price": 21.44
+    }
+]
